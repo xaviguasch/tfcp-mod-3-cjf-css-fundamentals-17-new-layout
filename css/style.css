@@ -42,7 +42,11 @@ header {
   color: white;
 }
 
-.section-one .btn {
+.section-two-link {
+  color: black;
+}
+
+.btn-yellow {
   display: inline-block;
   padding: 12px 25px;
   background: #ffe600;
@@ -51,24 +55,20 @@ header {
   text-decoration: none;
 }
 
-.section-one .btn:hover {
+.btn-yellow:hover {
   background: white;
 }
 
-.section-two a {
-  color: black;
-}
-
-.section-two .btn {
+.btn-black {
   display: inline-block;
   padding: 12px 25px;
   background: #000;
-  color: white;
+  color: #fff;
   font-weight: bold;
   text-decoration: none;
 }
 
-.section-two .btn:hover {
+.btn-black:hover {
   background: #ffe600;
   color: black;
 }
