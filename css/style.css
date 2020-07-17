@@ -26,3 +26,18 @@ header {
   background: #ffe600;
   color: #000;
 }
+
+header,
+section {
+  padding: 50px;
+}
+
+header {
+  background: #ffe600;
+  color: #000;
+}
+
+.section-one {
+  background: black;
+  color: white;
+}
