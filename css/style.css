@@ -41,3 +41,34 @@ header {
   background: black;
   color: white;
 }
+
+.section-one .btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #ffe600;
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.section-one .btn:hover {
+  background: white;
+}
+
+.section-two a {
+  color: black;
+}
+
+.section-two .btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #000;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.section-two .btn:hover {
+  background: #ffe600;
+  color: black;
+}
